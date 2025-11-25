@@ -1,4 +1,4 @@
-# GDSC_Intro_to_Machine_Learning
+## GDSC_Intro_to_Machine_Learning
 Overview
 This Google Colab notebook provides an introductory machine learning project that predicts Tesla's stock closing prices using linear regression. It serves as an excellent educational resource for students getting started with machine learning, covering the complete ML workflow from data exploration to model evaluation.
 
